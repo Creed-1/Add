@@ -1,0 +1,25 @@
+.container {
+    max-width: 550px;
+    padding-top: 140px;
+    color: black;
+}
+.text {
+    font-style: oblique
+}
+
+#fm ,#fu{
+    color: snow;
+    font-size: x-large;
+}
+
+#re 
+{
+    color: bisque;
+}
+
+#u{
+
+
+
+        padding-top: 27px;
+}
